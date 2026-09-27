@@ -1,2 +1,7 @@
-# nsw-government-service-delivery-intelligence
-NSW Government Service Delivery Intelligence — a Python, SQL and Power BI decision-support project analysing service demand, wait times, satisfaction, regional performance and forecasting.
+# NSW Government Service Delivery Intelligence
+
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Power BI • DAX • ETL • Forecasting**
+
+A decision-support platform for analysing public-service demand,
+processing times, service accessibility and regional performance.
